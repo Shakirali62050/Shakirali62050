@@ -49,7 +49,7 @@
 ### 📫 Connect With Me
 
 * GitHub: https://github.com/Shakirali62050
-* LinkedIn: linkedin.com/in/mohammad-shakir-ali-024130313/
+* LinkedIn: https://www.linkedin.com/in/mohammad-shakir-ali-024130313
 * Email: mohammadshakirali72500@gmail.com
 
 ### ⚡ Career Goal
