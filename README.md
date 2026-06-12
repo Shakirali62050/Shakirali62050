@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Shakir Ali 👋
 
-## DevOps & Cloud Engineer
+## Aspiring DevOps & Cloud Engineer
 
 ### Final-year Information Technology student passionate about Cloud Computing, DevOps, Infrastructure Automation, and Kubernetes.
 
